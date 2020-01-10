@@ -19,8 +19,8 @@ Nous nous interressons ici au premier module.
 -	Raspberry Pi avec son cordon
 #### Capteurs 
 -	Un DHT22 (ou 11) : Capteur d'humidité et de température
-		Capteur UltraSonic US-100 (ou équivalent)
-		capteur de niveau d'eau (Nyatchou va donner les précisions
+- 	Capteur UltraSonic US-100 (ou équivalent)
+-	Capteur de niveau d'eau (Nyatchou va donner les précisions
 #### Effecteurs :
 -	moteur DC
 -	ServoMoteur
