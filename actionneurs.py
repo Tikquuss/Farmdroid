@@ -90,3 +90,15 @@ class Moteur(object):
         if(puissance & puissance != self._puissance) :
             self._puissance = puissance
             self.esc.duty(self._puissance*60/100+40)
+
+class Arrosage(object):
+    microServo = None
+    moteur = None
+    
+    def start(self):
+        pass
+
+    def stop(self):
+        pass
+
+         

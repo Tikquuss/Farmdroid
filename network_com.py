@@ -22,7 +22,7 @@ class network_config(object):
     def __init__(self):  
         super().__init__(self)
 
-    def access_point_config(ssid) : # ssid='ESP-AP' par exemple
+    def access_point_config(ssid, password) : # ssid='ESP-AP' par exemple
         ap = network.WLAN(network.AP_IF) # create access-point interface
         ap.config(ssid) # set the ESSID of the access point
         ap.active(True)  # activate the interface

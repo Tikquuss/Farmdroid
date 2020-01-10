@@ -14,7 +14,7 @@ def getAirHumidity():
     d.measure()
     return d.humidity() # eg. 41.3 (% RH)
 
-def SoilHumidity(pin_number=0):
+def getSoilHumidity(pin_number=0):
     rtc = machine.RTC() # Clock for deepsleep
     rtc.irq(trigger=rtc.ALARM0, wake=machine.DEEPSLEEP)
     adc = machine.ADC(pin_number) # Pin to Read sensor voltage
