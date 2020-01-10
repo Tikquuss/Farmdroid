@@ -29,3 +29,5 @@ Nous nous interressons ici au premier module.
 -	Des résistances de 1K (plus de 3) 
 -	Une platine d’essais (breadboad) et des fils (jumpers)
 
+# Documentation
+Voir mon repo sur l'IoT(https://github.com/Tikquuss/IoT_Tikeng)
