@@ -14,17 +14,17 @@ Nous nous interressons ici au premier module.
 ### Langage de programmtion  : Python (microPython)
 ### IDE : uPyCraft
 ### Matériel :
-#### •	Cartes
+#### Cartes
 -	ESP : NodeMCU, ESP32, ESP8266, WEMOS, ou équivalent.
 -	Raspberry Pi avec son cordon
-#### •	Capteurs 
+#### Capteurs 
 -	Un DHT22 (ou 11) : Capteur d'humidité et de température
 		Capteur UltraSonic US-100 (ou équivalent)
 		capteur de niveau d'eau (Nyatchou va donner les précisions
-#### •	effecteurs :
+#### Effecteurs :
 -	moteur DC
 -	ServoMoteur
-#### •	Autres :
+#### Autres :
 -	Des piles AA (plus de 6)
 -	Des résistances de 1K (plus de 3) 
 -	Une platine d’essais (breadboad) et des fils (jumpers)
