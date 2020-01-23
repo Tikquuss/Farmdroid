@@ -30,4 +30,4 @@ Nous nous interressons ici au premier module.
 -	Une platine d’essais (breadboad) et des fils (jumpers)
 
 # Documentation
-Voir mon repo sur l'IoT(https://github.com/Tikquuss/IoT_Tikeng)
+Voir mon repo sur l'IoT(https://github.com/Tikquuss/IoT)
